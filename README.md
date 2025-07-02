@@ -3,6 +3,8 @@
 A lightweight, responsive, and secure Flask-based web application for verifying student identity using their unique ID. Designed to prevent unauthorized access using fake ID cards in college environments.
 
 ---
+![Screenshot 2025-07-02 121932](https://github.com/user-attachments/assets/7a75ad71-e8e2-4a61-8d28-66492ac2751d)
+
 
 ## 🌟 Features
 

@@ -45,7 +45,7 @@ ID_Card_Prevention_App/
 > Prerequisite: Python 3.8–3.12
 
 ```bash
-git clone https://github.com/yourusername/ID_Card_Prevention_App.git
+git clone https://github.com/26047306/ID_Card_Prevention_App.git.git
 cd ID_Card_Prevention_App
 ```
 
